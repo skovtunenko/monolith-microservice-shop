@@ -1,4 +1,4 @@
-module monolith-microservice-shop
+module github.com/ThreeDotsLabs/monolith-microservice-shop
 
 require (
 	github.com/davecgh/go-spew v1.1.0
